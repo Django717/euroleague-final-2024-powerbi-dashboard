@@ -1,6 +1,9 @@
 # Euroleague Final 2024 — Power BI Dashboard (Dynamic MVP)
 
 Interactive Power BI dashboard built to analyze the Euroleague Final 2024 with a **dynamic MVP per team** selection and clean, interview-ready layout.
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.jpg)
 
 ## Highlights
 - **Team slicer → Dynamic MVP**
